@@ -1,0 +1,19 @@
+{
+  "name": "tcsl-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "tcsljs": "bin/tcsljs.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.17.1",
+    "metalsmith": "^2.3.0",
+    "path": "^0.12.7"
+  }
+}
